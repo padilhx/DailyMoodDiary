@@ -1,5 +1,4 @@
-Meu Humor Diário
-
+<h1 align="center">DailyMoodDiary</h1>
 Aplicação web desenvolvida para registro e acompanhamento do humor diário, permitindo visualizar padrões emocionais ao longo do tempo por meio de gráficos interativos.
 
 O projeto foi construído utilizando React com Vite, seguindo uma estrutura baseada em componentes e boas práticas de organização.
